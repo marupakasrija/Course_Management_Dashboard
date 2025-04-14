@@ -1,7 +1,7 @@
-# React Developer Hiring Assignment
+# Course Management App
 
 ## 📌 Overview
-This project is a **Course Management Web Application** built using **React**. The application allows users to browse a list of courses, view detailed course information, and manage their enrolled courses through a student dashboard.
+The application allows users to browse a list of courses, view detailed course information, and manage their enrolled courses through a student dashboard.
 
 ---
 
